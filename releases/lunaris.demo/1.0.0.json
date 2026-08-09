@@ -16,7 +16,7 @@
   "repository": "LunarisApp/plugins",
   "script": {
     "bytes": 1272,
-    "contentType": "text/javascript; charset=utf-8",
+      "contentType": "application/javascript; charset=utf-8",
     "sha256": "87f22dd071309cc91f669ee932fbab86c5fa18cbbe89637b843a6bdbcfbfa1fe",
     "url": "https://plugins.lunaris.app/artifacts/lunaris.demo/1.0.0/87f22dd071309cc91f669ee932fbab86c5fa18cbbe89637b843a6bdbcfbfa1fe/main.js"
   },
