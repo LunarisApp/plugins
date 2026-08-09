@@ -1,15 +1,21 @@
 {
   "enabled": true,
-  "generatedAt": "2026-08-09T16:50:30.608Z",
+  "generatedAt": "2026-08-09T18:37:41.175Z",
   "plugins": [
     {
-      "description": "A minimal workspace panel for testing Lunaris plugin loading.",
+      "description": "A minimal view for testing Lunaris plugin loading.",
       "developer": "Lunaris",
       "id": "lunaris.demo",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "name": "Demo",
       "repository": "LunarisApp/plugins",
       "versions": [
+        {
+          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.demo/1.1.0.json",
+          "sdk": "^0.0.2",
+          "status": "active",
+          "version": "1.1.0"
+        },
         {
           "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.demo/1.0.0.json",
           "sdk": "^0.0.1",
