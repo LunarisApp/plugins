@@ -1,25 +1,43 @@
 {
   "enabled": true,
-  "generatedAt": "2026-08-09T18:37:41.175Z",
+  "generatedAt": "2026-08-10T12:58:27.711Z",
   "plugins": [
     {
       "description": "A minimal view for testing Lunaris plugin loading.",
       "developer": "Lunaris",
       "id": "lunaris.demo",
-      "latestVersion": "1.1.0",
+      "latestVersion": "1.1.1",
       "name": "Demo",
       "repository": "LunarisApp/plugins",
       "versions": [
         {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.demo/1.1.0.json",
-          "sdk": "^0.0.2",
+          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.demo/1.1.1.json",
+          "runtime": {
+            "kind": "iframe",
+            "protocol": 1
+          },
+          "sdk": "^0.0.3",
           "status": "active",
+          "version": "1.1.1"
+        },
+        {
+          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.demo/1.1.0.json",
+          "runtime": {
+            "kind": "iframe",
+            "protocol": 1
+          },
+          "sdk": "^0.0.2",
+          "status": "blocked",
           "version": "1.1.0"
         },
         {
           "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.demo/1.0.0.json",
+          "runtime": {
+            "kind": "iframe",
+            "protocol": 1
+          },
           "sdk": "^0.0.1",
-          "status": "active",
+          "status": "blocked",
           "version": "1.0.0"
         }
       ]
