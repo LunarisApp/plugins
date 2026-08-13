@@ -1,15 +1,25 @@
 {
   "enabled": true,
-  "generatedAt": "2026-08-13T06:58:56.950Z",
+  "generatedAt": "2026-08-13T07:31:40.721Z",
   "plugins": [
     {
       "description": "A synthetic SaaS operations console demonstrating Lunaris views and content types.",
       "developer": "Lunaris",
       "id": "lunaris.demo",
-      "latestVersion": "1.2.0",
+      "latestVersion": "1.2.1",
       "name": "Demo",
       "repository": "LunarisApp/plugins",
       "versions": [
+        {
+          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.demo/1.2.1.json",
+          "runtime": {
+            "kind": "iframe",
+            "protocol": 1
+          },
+          "sdk": "^0.0.3",
+          "status": "active",
+          "version": "1.2.1"
+        },
         {
           "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.demo/1.2.0.json",
           "runtime": {
