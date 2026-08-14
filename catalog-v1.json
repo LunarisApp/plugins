@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "generatedAt": "2026-08-13T07:31:40.721Z",
+  "generatedAt": "2026-08-14T19:06:03.312Z",
   "plugins": [
     {
       "description": "A synthetic SaaS operations console demonstrating Lunaris views and content types.",
@@ -58,6 +58,27 @@
           },
           "sdk": "^0.0.1",
           "status": "blocked",
+          "version": "1.0.0"
+        }
+      ]
+    },
+    {
+      "description": "Run interactive, self-contained HTML apps in your project",
+      "developer": "Lunaris",
+      "iconUrl": "https://plugins.lunaris.app/artifacts/lunaris.mini-app/1.0.0/60e049b0cac9b68ebe1e6014e0e90e9762a60f35b6c242cdbeb9c83dd8cf8d1d/icon.png",
+      "id": "lunaris.mini-app",
+      "latestVersion": "1.0.0",
+      "name": "Mini Apps",
+      "repository": "LunarisApp/plugins",
+      "versions": [
+        {
+          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.mini-app/1.0.0.json",
+          "runtime": {
+            "kind": "iframe",
+            "protocol": 1
+          },
+          "sdk": "^0.0.4",
+          "status": "active",
           "version": "1.0.0"
         }
       ]
