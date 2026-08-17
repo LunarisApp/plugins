@@ -1,0 +1,39 @@
+{
+  "manifest": {
+    "id": "lunaris.demo",
+    "name": "Demo",
+    "developer": "Lunaris",
+    "version": "1.2.2",
+    "sdk": "^0.0.4",
+    "description": "A synthetic SaaS operations console demonstrating Lunaris views and content types.",
+    "modifications": [
+      {
+        "id": "lunaris.demo",
+        "type": "view"
+      },
+      {
+        "id": "lunaris.demo.customer-dossier",
+        "type": "content-type"
+      }
+    ]
+  },
+  "repository": "LunarisApp/plugins",
+  "runtime": {
+    "kind": "iframe",
+    "protocol": 1
+  },
+  "script": {
+    "bytes": 350491,
+    "contentType": "application/javascript; charset=utf-8",
+    "sha256": "b34b39016f55e734586594c9a88a0cfbb5946a78ab5751f460731f107fe77979",
+    "url": "https://plugins.lunaris.app/artifacts/lunaris.demo/1.2.2/b34b39016f55e734586594c9a88a0cfbb5946a78ab5751f460731f107fe77979/main.js"
+  },
+  "sdk": "^0.0.4",
+  "status": "active",
+  "style": {
+    "bytes": 19292,
+    "contentType": "text/css; charset=utf-8",
+    "sha256": "ccaa7b7e4a41f0e3384cc9543c28f95120332f8fc47a627d73cdd07af8691413",
+    "url": "https://plugins.lunaris.app/artifacts/lunaris.demo/1.2.2/ccaa7b7e4a41f0e3384cc9543c28f95120332f8fc47a627d73cdd07af8691413/styles.css"
+  }
+}
