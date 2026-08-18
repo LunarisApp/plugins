@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "generatedAt": "2026-08-17T17:42:34.483Z",
+  "generatedAt": "2026-08-18T10:25:29.569Z",
   "plugins": [
     {
       "description": "A synthetic SaaS operations console demonstrating Lunaris views and content types.",
@@ -68,6 +68,47 @@
           },
           "sdk": "^0.0.1",
           "status": "blocked",
+          "version": "1.0.0"
+        }
+      ]
+    },
+    {
+      "description": "Collaborative drawing with Excalidraw",
+      "developer": "Lunaris",
+      "iconUrl": "https://plugins.lunaris.app/artifacts/lunaris.excalidraw/1.0.0/581b7d7ecdc537b4748ea93dae4382bbb4c8ffe5084eb9ad5e771141f42ca51b/icon.png",
+      "id": "lunaris.excalidraw",
+      "latestVersion": "1.0.0",
+      "name": "Excalidraw",
+      "repository": "LunarisApp/plugins",
+      "versions": [
+        {
+          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.excalidraw/1.0.0.json",
+          "runtime": {
+            "kind": "iframe",
+            "protocol": 1
+          },
+          "sdk": "^0.0.4",
+          "status": "active",
+          "version": "1.0.0"
+        }
+      ]
+    },
+    {
+      "description": "Save browser links in your project and open them in a panel.",
+      "developer": "Lunaris",
+      "id": "lunaris.links",
+      "latestVersion": "1.0.0",
+      "name": "Links",
+      "repository": "LunarisApp/plugins",
+      "versions": [
+        {
+          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.links/1.0.0.json",
+          "runtime": {
+            "kind": "iframe",
+            "protocol": 1
+          },
+          "sdk": "^0.0.4",
+          "status": "active",
           "version": "1.0.0"
         }
       ]
