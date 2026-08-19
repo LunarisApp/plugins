@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "generatedAt": "2026-08-18T13:09:59.191Z",
+  "generatedAt": "2026-08-19T06:02:23.484Z",
   "plugins": [
     {
       "description": "A synthetic SaaS operations console demonstrating Lunaris views and content types.",
@@ -75,12 +75,22 @@
     {
       "description": "Collaborative drawing with Excalidraw",
       "developer": "Lunaris",
-      "iconUrl": "https://plugins.lunaris.app/artifacts/lunaris.excalidraw/1.0.0/581b7d7ecdc537b4748ea93dae4382bbb4c8ffe5084eb9ad5e771141f42ca51b/icon.png",
+      "iconUrl": "https://plugins.lunaris.app/artifacts/lunaris.excalidraw/1.0.1/581b7d7ecdc537b4748ea93dae4382bbb4c8ffe5084eb9ad5e771141f42ca51b/icon.png",
       "id": "lunaris.excalidraw",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.0.1",
       "name": "Excalidraw",
       "repository": "LunarisApp/plugins",
       "versions": [
+        {
+          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.excalidraw/1.0.1.json",
+          "runtime": {
+            "kind": "iframe",
+            "protocol": 1
+          },
+          "sdk": "^0.0.4",
+          "status": "active",
+          "version": "1.0.1"
+        },
         {
           "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.excalidraw/1.0.0.json",
           "runtime": {
