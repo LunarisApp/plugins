@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "generatedAt": "2026-08-20T06:20:03.913Z",
+  "generatedAt": "2026-08-20T06:43:03.143Z",
   "plugins": [
     {
       "description": "A synthetic SaaS operations console demonstrating Lunaris views and content types.",
@@ -75,12 +75,22 @@
     {
       "description": "Collaborative drawing with Excalidraw",
       "developer": "Lunaris",
-      "iconUrl": "https://plugins.lunaris.app/artifacts/lunaris.excalidraw/1.0.2/581b7d7ecdc537b4748ea93dae4382bbb4c8ffe5084eb9ad5e771141f42ca51b/icon.png",
+      "iconUrl": "https://plugins.lunaris.app/artifacts/lunaris.excalidraw/1.0.3/581b7d7ecdc537b4748ea93dae4382bbb4c8ffe5084eb9ad5e771141f42ca51b/icon.png",
       "id": "lunaris.excalidraw",
-      "latestVersion": "1.0.2",
+      "latestVersion": "1.0.3",
       "name": "Excalidraw",
       "repository": "LunarisApp/plugins",
       "versions": [
+        {
+          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.excalidraw/1.0.3.json",
+          "runtime": {
+            "kind": "iframe",
+            "protocol": 1
+          },
+          "sdk": "^0.0.4",
+          "status": "active",
+          "version": "1.0.3"
+        },
         {
           "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.excalidraw/1.0.2.json",
           "runtime": {
@@ -103,36 +113,6 @@
         },
         {
           "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.excalidraw/1.0.0.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.4",
-          "status": "active",
-          "version": "1.0.0"
-        }
-      ]
-    },
-    {
-      "description": "Save browser links in your project and open them in a panel.",
-      "developer": "Lunaris",
-      "id": "lunaris.links",
-      "latestVersion": "1.0.1",
-      "name": "Links",
-      "repository": "LunarisApp/plugins",
-      "versions": [
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.links/1.0.1.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.4",
-          "status": "active",
-          "version": "1.0.1"
-        },
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.links/1.0.0.json",
           "runtime": {
             "kind": "iframe",
             "protocol": 1
