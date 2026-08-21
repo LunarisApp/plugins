@@ -1,206 +1,66 @@
 {
   "enabled": true,
-  "generatedAt": "2026-08-20T08:32:38.985Z",
+  "generatedAt": "2026-08-21T19:53:27.420Z",
   "plugins": [
     {
       "description": "A synthetic SaaS operations console demonstrating Lunaris views and content types.",
       "developer": "Lunaris",
       "id": "lunaris.demo",
-      "latestVersion": "1.2.2",
+      "latestVersion": "1.2.3",
       "name": "Demo",
       "repository": "LunarisApp/plugins",
       "versions": [
         {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.demo/1.2.2.json",
+          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.demo/1.2.3.json",
           "runtime": {
             "kind": "iframe",
             "protocol": 1
           },
-          "sdk": "^0.0.4",
+          "sdk": "^0.0.5",
           "status": "active",
-          "version": "1.2.2"
-        },
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.demo/1.2.1.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.3",
-          "status": "active",
-          "version": "1.2.1"
-        },
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.demo/1.2.0.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.3",
-          "status": "active",
-          "version": "1.2.0"
-        },
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.demo/1.1.1.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.3",
-          "status": "active",
-          "version": "1.1.1"
-        },
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.demo/1.1.0.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.2",
-          "status": "blocked",
-          "version": "1.1.0"
-        },
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.demo/1.0.0.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.1",
-          "status": "blocked",
-          "version": "1.0.0"
+          "version": "1.2.3"
         }
       ]
     },
     {
       "description": "Collaborative drawing with Excalidraw",
       "developer": "Lunaris",
-      "iconUrl": "https://plugins.lunaris.app/artifacts/lunaris.excalidraw/1.0.4/581b7d7ecdc537b4748ea93dae4382bbb4c8ffe5084eb9ad5e771141f42ca51b/icon.png",
+      "iconUrl": "https://plugins.lunaris.app/artifacts/lunaris.excalidraw/1.0.5/581b7d7ecdc537b4748ea93dae4382bbb4c8ffe5084eb9ad5e771141f42ca51b/icon.png",
       "id": "lunaris.excalidraw",
-      "latestVersion": "1.0.4",
+      "latestVersion": "1.0.5",
       "name": "Excalidraw",
       "repository": "LunarisApp/plugins",
       "versions": [
         {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.excalidraw/1.0.4.json",
+          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.excalidraw/1.0.5.json",
           "runtime": {
             "kind": "iframe",
             "protocol": 1
           },
-          "sdk": "^0.0.4",
+          "sdk": "^0.0.5",
           "status": "active",
-          "version": "1.0.4"
-        },
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.excalidraw/1.0.3.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.4",
-          "status": "active",
-          "version": "1.0.3"
-        },
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.excalidraw/1.0.2.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.4",
-          "status": "active",
-          "version": "1.0.2"
-        },
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.excalidraw/1.0.1.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.4",
-          "status": "active",
-          "version": "1.0.1"
-        },
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.excalidraw/1.0.0.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.4",
-          "status": "active",
-          "version": "1.0.0"
+          "version": "1.0.5"
         }
       ]
     },
     {
       "description": "Run interactive, self-contained HTML apps in your project",
       "developer": "Lunaris",
-      "iconUrl": "https://plugins.lunaris.app/artifacts/lunaris.mini-app/1.0.5/60e049b0cac9b68ebe1e6014e0e90e9762a60f35b6c242cdbeb9c83dd8cf8d1d/icon.png",
+      "iconUrl": "https://plugins.lunaris.app/artifacts/lunaris.mini-app/1.0.6/60e049b0cac9b68ebe1e6014e0e90e9762a60f35b6c242cdbeb9c83dd8cf8d1d/icon.png",
       "id": "lunaris.mini-app",
-      "latestVersion": "1.0.5",
+      "latestVersion": "1.0.6",
       "name": "Mini Apps",
       "repository": "LunarisApp/plugins",
       "versions": [
         {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.mini-app/1.0.5.json",
+          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.mini-app/1.0.6.json",
           "runtime": {
             "kind": "iframe",
             "protocol": 1
           },
-          "sdk": "^0.0.4",
+          "sdk": "^0.0.5",
           "status": "active",
-          "version": "1.0.5"
-        },
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.mini-app/1.0.4.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.4",
-          "status": "active",
-          "version": "1.0.4"
-        },
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.mini-app/1.0.3.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.4",
-          "status": "active",
-          "version": "1.0.3"
-        },
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.mini-app/1.0.2.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.4",
-          "status": "active",
-          "version": "1.0.2"
-        },
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.mini-app/1.0.1.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.4",
-          "status": "active",
-          "version": "1.0.1"
-        },
-        {
-          "descriptorUrl": "https://plugins.lunaris.app/releases/lunaris.mini-app/1.0.0.json",
-          "runtime": {
-            "kind": "iframe",
-            "protocol": 1
-          },
-          "sdk": "^0.0.4",
-          "status": "active",
-          "version": "1.0.0"
+          "version": "1.0.6"
         }
       ]
     }

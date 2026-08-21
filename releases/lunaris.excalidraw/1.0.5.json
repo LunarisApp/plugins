@@ -1,0 +1,49 @@
+{
+  "icon": {
+    "bytes": 18265,
+    "contentType": "image/png",
+    "sha256": "581b7d7ecdc537b4748ea93dae4382bbb4c8ffe5084eb9ad5e771141f42ca51b",
+    "url": "https://plugins.lunaris.app/artifacts/lunaris.excalidraw/1.0.5/581b7d7ecdc537b4748ea93dae4382bbb4c8ffe5084eb9ad5e771141f42ca51b/icon.png"
+  },
+  "manifest": {
+    "id": "lunaris.excalidraw",
+    "name": "Excalidraw",
+    "developer": "Lunaris",
+    "version": "1.0.5",
+    "sdk": "^0.0.5",
+    "description": "Collaborative drawing with Excalidraw",
+    "modifications": [
+      {
+        "compilable": true,
+        "createLabel": "Excalidraw",
+        "createMode": "default",
+        "documentStorage": "yjs",
+        "hierarchyVisibility": "visible",
+        "id": "lunaris.excalidraw",
+        "name": "Excalidraw",
+        "singleton": false,
+        "type": "content-type",
+        "userCreatable": true
+      }
+    ]
+  },
+  "repository": "LunarisApp/plugins",
+  "runtime": {
+    "kind": "iframe",
+    "protocol": 1
+  },
+  "script": {
+    "bytes": 7952422,
+    "contentType": "application/javascript; charset=utf-8",
+    "sha256": "2086f24882718636d72c1573d7fde1fb82a4141131001090bced95d084278adc",
+    "url": "https://plugins.lunaris.app/artifacts/lunaris.excalidraw/1.0.5/2086f24882718636d72c1573d7fde1fb82a4141131001090bced95d084278adc/main.js"
+  },
+  "sdk": "^0.0.5",
+  "status": "active",
+  "style": {
+    "bytes": 252487,
+    "contentType": "text/css; charset=utf-8",
+    "sha256": "88ed7ac3e5e1e835cfabc0e11df55f4490088e9e9023fa34fcf2fdf06f30aca5",
+    "url": "https://plugins.lunaris.app/artifacts/lunaris.excalidraw/1.0.5/88ed7ac3e5e1e835cfabc0e11df55f4490088e9e9023fa34fcf2fdf06f30aca5/styles.css"
+  }
+}
